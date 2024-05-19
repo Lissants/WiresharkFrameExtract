@@ -10,4 +10,6 @@ Basically, this program scans through the prepared WireShark packet capture file
 </ol>
 <h2>Implementation</h2>
 The expected output of this program is as such:
-<img src="https://cdn.discordapp.com/attachments/821442312118206496/1238517610912681994/image.png?ex=663f92e8&is=663e4168&hm=f894b61b9151b38919cb18cac256e75532d5ee424f8bf93fdbb5aea847c272bf&">
+</br>
+<img src="https://github.com/Lissants/WiresharkFrameExtract/assets/56996032/4c915443-8df7-4a7d-a693-ddb1ba91b4eb" alt-text= "program output">
+
